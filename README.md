@@ -1,2 +1,2 @@
 # responsi
-Responsi Praktikum Infrastruktur Big Data
+Responsi Workshop
